@@ -16,7 +16,8 @@ you should this fraimworks install in your enviroment.
 </ol>
 --reference-- https://linuxize.com/post/how-to-install-yarn-on-ubuntu-18-04/
 </li>
-<li>3. start app<br>
+<li>3. npm install</li>
+<li>4. start app<br>
  you can start using <br>
     type 1-- sudo npm start<br>
     type 2-- sudo yarn start<br><br>
